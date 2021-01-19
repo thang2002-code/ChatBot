@@ -1,13 +1,10 @@
 <?php
-$DBHOST = getenv('DBHOST'); // Set your database host here
-$DBUSER = getenv('DBUSER'); // Set your database user here
-$DBNAME = getenv('DBNAME'); // Set your database name here
-$DBPW =  getenv('DBPASS'); // Set your database password here
-$BOT_ID = getenv('BOT_ID');
-$TOKEN = getenv('BOT_TOKEN');
-
-$NUDE_API_USER = getenv('NUDE_API_USER');
-$NUDE_API_SECRET = getenv('NUDE_API_SECRET');
+$DBHOST = "sql2.freemysqlhosting.net"; // Set your database host here
+$DBUSER = "sql2387863"; // Set your database user here
+$DBNAME = "sql2387863"; // Set your database name here
+$DBPW =  "bL8%pK3!"; // Set your database password here
+$BOT_ID = "5fe7a2d6366d631ab87d1ff4";
+$TOKEN = "";
 
 $BLOCK_NAME = "uet_chat";
 $JSON = "uet_text";
